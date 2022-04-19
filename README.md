@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sidharth Kapoor
-- 👀 I’m interested in AI, ML, DL, NLP, CV, MLOPS.
-- 🌱 I’m currently learning Deep Learning.
+- 👀 I’m interested in computer vision, NLP and MLOps.
+- 🌱 I’m currently working on Computer vision.
 - 💞️ I’m looking to contribute to open source Machine Learning projects. 
 - 📫 How to reach me at sidharthkapoor.100@gmail.com
