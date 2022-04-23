@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sidharth Kapoor
+- 👋 Hi, I’m Sidharth
 - 👀 I’m interested in computer vision, NLP and MLOps.
 - 🌱 I’m currently working on Computer vision.
 - 💞️ I’m looking to contribute to open source Machine Learning projects. 
