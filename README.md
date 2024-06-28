@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently working on Web3, blockchain development<br>👯 I’m looking to collaborate on Defi projects<br>🌱 I’m currently learning about NFTs<br>⚡ Fun fact I used to develop ML/AI apps
+🔭 I’m currently working as web3 Developer<br>👯 I’m looking to collaborate on Defi projects<br>🌱 I’m currently learning about ERC-4337<br>⚡ Fun fact I used to develop ML/AI apps
 
 ## 🌐 Socials:
 
