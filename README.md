@@ -31,7 +31,7 @@ Currently at **[IQ AI](https://iqai.com/)** · Deep in the **DeFAI** space (DeFi
 
 ## 🚀 Featured Work
 
-**[IQ AI](https://app.iqai.com)** — DeFAI platform combining DeFi infrastructure with AI agents. Built smart contracts and backend integrations.
+**[IQ AI](https://app.iqai.com)** — DeFAI platform combining DeFi infrastructure with AI agents. Worked on smart contracts and backend integrations.
 
 <br/>
 
