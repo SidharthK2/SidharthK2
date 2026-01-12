@@ -2,7 +2,7 @@
 
 **Web3 Engineer** with 3 years of experience building smart contracts and the backend infrastructure that powers them—indexers, APIs, and integrations.
 
-Currently at **[IQ AI](https://github.com/IQAIcom)** · Deep in the **DeFAI** space (DeFi × AI agents)
+Currently at **[IQ AI](https://iqai.com/)** · Deep in the **DeFAI** space (DeFi × AI agents)
 
 <br/>
 
