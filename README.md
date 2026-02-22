@@ -1,6 +1,6 @@
 # Hey, I'm Sid 👋
 
-**Web3 Engineer** with 3 years of experience building smart contracts and the backend infrastructure that powers them—indexers, APIs, and integrations.
+**Web3 Engineer** with 4+ years of experience building smart contracts and the backend infrastructure that powers them—indexers, APIs, and integrations.
 
 Currently at **[IQ AI](https://iqai.com/)** · Deep in the **DeFAI** space (DeFi × AI agents)
 
