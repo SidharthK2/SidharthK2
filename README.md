@@ -6,7 +6,7 @@ Currently at **[IQ Industries](https://iqindustries.com/)** · Deep in Predictio
 
 <br/>
 
-[![Website](https://img.shields.io/badge/sidk.dev-8A2BE2?style=for-the-badge&logo=safari&logoColor=white)](https://www.sidk.dev/)
+[![Website](https://img.shields.io/badge/sidkap.xyz-8A2BE2?style=for-the-badge&logo=safari&logoColor=white)](https://www.sidkap.xyz/)
 [![Twitter](https://img.shields.io/badge/@coding__sid-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/coding_sid)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharthkapoor.100@gmail.com)
 
