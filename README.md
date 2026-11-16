@@ -40,3 +40,4 @@ Currently at **[IQ Industries](https://iqindustries.com/)** · Deep in Predictio
 <br/>
 
 ## 🔭 Current Interests
+ Prediction markets  ·  Perps
