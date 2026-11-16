@@ -31,13 +31,16 @@ Currently at **[IQ Industries](https://iqindustries.com/)** · Deep in Predictio
 
 ## 🚀 Featured Work
 
-**[IQ Lend](https://iq-lend-ui.vercel.app/)** · [contracts](https://github.com/SidharthK2/iq-lend) — Lending protocol for the IQ token, live on Ethereum mainnet. A Morpho Blue fork with owner-managed supply/borrow caps, a Fraxswap TWAP oracle, and a router that opens and closes leveraged long/short IQ positions in one transaction using flash loans. Also built the liquidation bot that watches positions and liquidates them, either directly or with a flash loan.
+**[IQ Lend](https://iq-lend-ui.vercel.app/)** · [contracts](https://github.com/SidharthK2/iq-lend) — Long or short IQ with leverage in one click. Morpho Blue fork, live on mainnet.
 
-**[Impulse](https://impulse.sidkap.xyz)** · [repo](https://github.com/SidharthK2/impulse) — Paper-trading exchange for leveraged perps on anything: creator coins, pre-IPO companies, crypto, stocks and Polymarket markets. A Rust matching and risk engine runs on one thread and produces the same state from the same commands. Every command is journaled to SQLite before the reply, and when a position goes underwater, ADL charges the winning side instead of an insurance fund.
+**[Impulse](https://impulse.sidkap.xyz)** · [repo](https://github.com/SidharthK2/impulse) — Perps on anything: creator coins, pre-IPO startups, Polymarket odds.
 
-**[IQ AI](https://app.iqai.com)** — DeFi platform combining DeFi infrastructure with AI agents. Worked on smart contracts and backend integrations.
+**[IQ AI](https://app.iqai.com)** — DeFi platform pairing DeFi infrastructure with AI agents. Smart contracts and backend integrations.
 
 <br/>
 
 ## 🔭 Current Interests
- Prediction markets  ·  Perps
+
+```
+Prediction markets  ·  Perps
+```
